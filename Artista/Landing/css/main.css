@@ -10667,12 +10667,12 @@ a {
   background-size: 150px 70px;
 }
 .vs-active-section-1 .navbar-default.navbar-fixed-top .logo-gif {
-  background: url('../Artista/Shared/Images/Unfold.gif');
+  background: url('./Artista/Shared/Images/Unfold.gif');
 }
 .vs-active-section-0 .logo-gif,
 .vs-active-section-2 .logo-gif,
 .vs-active-section-3 .logo-gif {
-  background: url('../Artista/Shared/Images/Unfold.gif');
+  background: url('./Artista/Shared/Images/Unfold.gif');
 }
 .vs-active-section-0 .navbar-default.navbar-fixed-top .social-show-container .social-open,
 .vs-active-section-2 .navbar-default.navbar-fixed-top .social-show-container .social-open,
@@ -10680,7 +10680,7 @@ a {
   color: #fff;
 }
 .workinprogress {
-  background-color: #00dbdb;
+  background: url('../images/Chalk.jpg');
 }
 .workinprogress h2 {
   color: #fff;
